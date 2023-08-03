@@ -1,11 +1,4 @@
 /*
-*   Author: bslthemes
-*   Author URL: http://themeforest.net/user/bslthemes
-*   Version: 2.7
-*/
-
-
-/*
 	Preloader
 */
 
