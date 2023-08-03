@@ -648,11 +648,11 @@ function initMap() {
 	});
 }
 
+/*
 ( function( $ ) {
 	'use strict';
 
 	$(window).on("load", function() {
-
 		( function( $ ) {$.get("//bslthemes.com/html/ryan/bar/bar.html", function (data) {$('body').append(data);});} )( jQuery );
 		setTimeout(function(){
 			$('.theme_panel .toggle_bts a.sett').removeClass('active');
@@ -662,3 +662,4 @@ function initMap() {
 	});
 
 } )( jQuery );
+*/
